@@ -1,4 +1,4 @@
-# created an ATM machine which helps an user to create a pin, withdraw, deposit and check balance.
+# created an ATM machine which helps an user to create a pin, withdraw, deposit and check balance from a bank.
 class Atm() :
     def __init__(self) :
         self.pin = ""
